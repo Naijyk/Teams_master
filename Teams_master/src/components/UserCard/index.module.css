@@ -1,0 +1,15 @@
+.user_card {
+    border: 3px solid darkred;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.user_card:hover {
+    color: white;
+    background-color: darkred;
+}
